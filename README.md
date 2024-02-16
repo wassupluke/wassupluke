@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<!--START_SECTION:waka-->
+<a href="https://wakatime.com/@5e381018-b7a8-4b3b-90a4-69414293eb7e"><img src="https://wakatime.com/badge/user/5e381018-b7a8-4b3b-90a4-69414293eb7e.svg" alt="Total time coded since Sep 12 2023" /></a>
+<!--END_SECTION:waka-->
+
 <!--
 **wassupluke/wassupluke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
