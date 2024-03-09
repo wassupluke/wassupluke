@@ -1,11 +1,14 @@
-### Hi there 👋  I'm Luke, a BSN, RN, CCRN by trade, and self-taught Python wizard (if we use the term 'wizard' lightly). I first learned Python in 2022 and have been using it more and more for making my life easier and more efficient.
+<p align=center>
+  <!--START_SECTION:waka-->
+  <a href="https://wakatime.com/@5e381018-b7a8-4b3b-90a4-69414293eb7e"><img src="https://wakatime.com/badge/user/5e381018-b7a8-4b3b-90a4-69414293eb7e.svg" alt="Total time coded since Sep 12 2023" /></a>
+  <!--END_SECTION:waka-->
+</p>
+
+### Hi there 👋  I'm Luke, an ICU nurse by trade, and self-taught Python wizard (if we use the term 'wizard' lightly). I first learned Python in 2022 and have been using it more and more for making my life easier and more efficient.
 
 - 🔭 I’m currently working on acceptance into a doctorate of nurse anesthesia practice program.
 - 💬 Ask me about the weekly recipe emailer I made for my wife!
-
-<!--START_SECTION:waka-->
-<a href="https://wakatime.com/@5e381018-b7a8-4b3b-90a4-69414293eb7e"><img src="https://wakatime.com/badge/user/5e381018-b7a8-4b3b-90a4-69414293eb7e.svg" alt="Total time coded since Sep 12 2023" /></a>
-<!--END_SECTION:waka-->
+- 🚲 Fun Fact: I own a chameleon purple-blue Dogma F.
 
 <!--
 **wassupluke/wassupluke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
