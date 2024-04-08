@@ -4,11 +4,10 @@
   <!--END_SECTION:waka-->
 </p>
 
-### Hi there 👋  I'm Luke, an ICU nurse by trade, and self-taught Python wizard (if we use the term 'wizard' lightly). I first learned Python in 2022 and have been using it more and more for making my life easier and more efficient.
+### Hi there 👋  I'm Luke, a self-taught Python wizard (if we use the term 'wizard' lightly). I first learned Python in 2022 and have been using it more and more for making my life easier and more efficient.
 
-- 🔭 I’m currently working on acceptance into a doctorate of nurse anesthesia practice program.
 - 💬 Ask me about the weekly recipe emailer I made for my wife!
-- 🚲 Fun Fact: I own a chameleon purple-blue Dogma F.
+- 🌱 I’m currently learning to use Arch, btw
 
 <!--
 **wassupluke/wassupluke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
