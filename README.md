@@ -7,7 +7,7 @@
 ### Hi there 👋  I'm Luke, a self-taught Python wizard (if we use the term 'wizard' lightly). I first learned Python in 2022 and have been using it more and more for making my life easier and more efficient.
 
 - 💬 Ask me about the weekly recipe emailer I made for my wife!
-- 🌱 Teaching myself to use Jetpack Compose
+- 🌱 Teaching myself Proxmox and Ceph clustering
 
 <!--
 **wassupluke/wassupluke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
