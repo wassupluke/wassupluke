@@ -74,13 +74,13 @@ Automatically detects Tailscale client IPs/hostnames and updates Pi-hole’s DNS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wassupluke&show_icons=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub Stats" width="48%" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=wassupluke&show_icons=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassupluke&layout=compact&theme=radical&hide_border=true&hide_title=true" alt="Top Languages" width="48%" />
 
-<br><br>
+<br><br>-->
 
-<img src="https://streak-stats.demolab.com?user=wassupluke&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-<img src="https://github-profile-trophy.vercel.app/?username=wassupluke&theme=radical&margin-w=15&margin-h=15" alt="Trophies" width="48%" />
+<img src="https://streak-stats.demolab.com?user=wassupluke&theme=radical&hide_border=true" alt="GitHub Streak" />
+<!--<img src="https://github-profile-trophy.vercel.app/?username=wassupluke&theme=radical&margin-w=15&margin-h=15" alt="Trophies" width="48%" />-->
 
 </div>
 
